@@ -7,7 +7,7 @@ Go bindings to the PC/SC API.
 
 ## Installation
 
-	go get -u github.com/ebfe/scard
+	go get -u github.com/qo0p/scard
 
 ## Bugs
 	- Memory layouts/GC/cgo rules needs a thorough review.

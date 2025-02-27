@@ -1,3 +1,3 @@
-module github.com/ebfe/scard
+module github.com/qo0p/scard
 
 go 1.19

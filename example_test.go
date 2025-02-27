@@ -2,7 +2,7 @@ package scard_test
 
 import (
 	"fmt"
-	"github.com/ebfe/scard"
+	"github.com/qo0p/scard"
 	"os"
 )
 
